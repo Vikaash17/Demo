@@ -1,3 +1,3 @@
 # Demo
 this is my first repository<br>
-author vikash
+author vikash kumar
